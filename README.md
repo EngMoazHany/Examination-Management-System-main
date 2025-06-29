@@ -33,5 +33,5 @@ A comprehensive **Java-based desktop application** designed to manage the examin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NA7RAWY/Examination-Management-System.git
+   git clone https://github.com/EngMoazHany/Examination-Management-System.git
    cd Examination-Management-System
